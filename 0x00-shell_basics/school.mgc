@@ -1,2 +1,2 @@
-#!/bin/bash
-file /tmp/iamafile
+# Magic file for school data files
+0 string SCHOOL School data file
